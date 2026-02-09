@@ -44,7 +44,7 @@
     * **Consistencia Inmediata:** No se acepta "consistencia eventual" en saldos bancarios.
 
 ## 6. Red Social (Detección de Fraude/Comunidades)
-> **Enunciado:** Detectar **comunidades**, relaciones indirectas y conexiones sospechosas entre perfiles.
+**Enunciado:** Detectar **comunidades**, relaciones indirectas y conexiones sospechosas entre perfiles.
 
 * **Solución:** **NoSQL de Grafos**
 * **Justificación:**
@@ -52,7 +52,7 @@
     * **Patrones complejos:** Ideal para detectar ciclos o caminos entre nodos distantes (análisis de fraude).
 
 ## 7. Buscador Semántico (IA)
-> **Enunciado:** Encontrar documentos **similares** a una descripción, aunque **no coincidan las palabras exactas**.
+**Enunciado:** Encontrar documentos **similares** a una descripción, aunque **no coincidan las palabras exactas**.
 
 * **Solución:** **Base de Datos Vectorial**
 * **Justificación:**
